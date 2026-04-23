@@ -6,7 +6,7 @@ Welcome to my personal portfolio repository! This website showcases my journey a
 
 ## 🚀 Live Demo
 You can view the live, animated version of my portfolio here: 
-**(https://github.com/nikhitha-sk)**
+**([https://github.com/nikhitha-sk](https://nikhitha-sk.github.io/nikhitha-portfolio/))**
 
 ## 🛠️ Tech Stack
 This portfolio was built using:
