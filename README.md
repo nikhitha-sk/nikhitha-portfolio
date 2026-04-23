@@ -24,4 +24,3 @@ A quick look at what's featured on the site:
 ## 📫 Contact Me
 * **Email:** nikhithaskotian07@gmail.com
 * **GitHub:** [github.com/nikhitha-sk](https://github.com/nikhitha-sk)
-* **LinkedIn:** [Link to your profile]
